@@ -10,7 +10,7 @@ local DiscordHook = {
   ["author"] = "HydroNitrogen",
   ["date"] = "2019-01-30",
   ["version"] = 1,
-  ["url"] = "https://github.com/Wendelstein7/DiscordHook-CC"
+  ["url"] = "https://github.com/WWM-Coalition/DiscordHook-CC"
 }
 
 local function expect(func, arg, n, expected)
